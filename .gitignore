@@ -1,6 +1,7 @@
 out/
 .DS_Store
 .idea/
+
 QA_Java_Idea_Create.iml
 .idea/vcs.xml
 .idea/modules.xml
